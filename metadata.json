@@ -1,0 +1,5 @@
+{
+  "name": "QuizAI Dashboard (4)",
+  "description": "A dark-mode study dashboard inspired by Quizlet, featuring file upload, filtering, and study material management.",
+  "requestFramePermissions": []
+}
